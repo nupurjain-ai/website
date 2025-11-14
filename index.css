@@ -1,20 +1,46 @@
 body{
-    background: #f98ae6;
-    margin: o;
+    /* background: #f0fff1;
+    margin: 0; */
+    background: url(leaves.jpeg);
+    margin: 0;
 }
+
 
 #main-div{
- background:rgb(135, 247, 234);
- width: 1200px;
- height: 600px;
- margin-top: 0;  
+    background: url(image1.jpeg);
+    width: 70%;
+    height: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
 }
 
-#name{
-    color:rgb(54, 10, 110);
+div{
+    background: url(dog1.jpeg);
+    width: 70%;
+    height: 80%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+
+h1{
+    color: #f0fff1;
     text-align: center;
-    border: solid black spx;
-    font: 'EB Garamond serif';
-
-
+    padding-top: 30px;
+    /* border: #f0fff1 solid 2px; */
+    font: 'serif';
+    font-size: 48px;
+    font-weight: bold;
 }
+
+
+hr{
+    width: 90%;
+    padding-left: 10;
+    padding-right: 10;
+    border: 1px solid #f0fff1;
+    margin-top: -10px;
+}
+
+
